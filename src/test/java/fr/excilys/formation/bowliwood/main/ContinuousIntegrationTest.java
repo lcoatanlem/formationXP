@@ -1,4 +1,4 @@
-package fr.excilys.formation.bowliwood;
+package fr.excilys.formation.bowliwood.main;
 
 import org.junit.Test;
 import static org.junit.Assert.fail;
